@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">New Pran</string>
+    <string-array name="member_names">
+        <item>Abdus Sobahan Sarkar</item>
+        <item>Asif Shahriar</item>
+        <item>Abdul Halim</item>
+        <item>Jabbarul Islam</item>
+        <item>Loman Hoshain Limon</item>
+        <item>MD. Abdul Rahman Shuvo</item>
+        <item>MD. Ayatul Islam Ayat</item>
+        <item>Rasel Mia</item>
+        <item>RS. Rasel Mia</item>
+        <item>shadiduzzaman_mondol</item>
+        <item>tanvir Islam</item>
+    </string-array>
+    <string-array name="phone_array">
+        <item>Call me: 01701940103</item>
+        <item>Call me: 01774508260</item>
+        <item>Call me: 01773159552</item>
+        <item>Call me: 01777777777</item>
+        <item>Call me: 01717260184</item>
+        <item>Call me: 01722485299</item>
+        <item>Call me: 01780598646</item>
+        <item>Call me: 01773980323</item>
+        <item>Call me: 01864643953</item>
+        <item>Call me: 01890573756</item>
+        <item>Call me: 01763157432</item>
+
+
+    </string-array>
+    <string-array name="subTitle">
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Ideal Institute of Technology
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+        <item>
+            Rangpur Polytechnic Institute
+        </item>
+
+    </string-array>
+
+    <string name="option1">Member</string>
+    <string name="option2">Location</string>
+    <string name="option3">Rules</string>
+    <string name="option4">Owner</string>
+    <string name="option5">BTEB</string>
+    <string name="option6">INSTITUTE</string>
+
+    <string-array name="details">
+        <item>
+            \n Abdus Sobahan Sarkar \n Address: পাগলাপীর, রংপুর \n Phone: 01701940103 \n gmail: iamsobahan.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+
+        <item>
+            \n Asif Shahriar \n Address: দর্শনা, সুত্রাপুর,রংপুর। \n Phone: 01774508260 \n gmail: iamasif.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n Abdul Halim \n Address: লালমনির হাট, হাতিবান্ধা \n Phone: 01773159552 \n gmail: iamhalim.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n Jabbarul Islam \n Address: বগুড়া, সদর \n Phone: 01774508260 \n gmail: iamjabbarul.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n Loman Hoshain Limon \n Address: সি-ও বাজার, রংপুর \n Phone: 01717260184 \n gmail: iamlimon.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n MD. Abdul Rahman Shuvo \n Address: বগুড়া, সদর \n Phone: 01774508260 \n gmail: iamshuvo.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n MD. Ayatul Islam Ayat \n Address: রংপুর সদর \n Phone: 01780598646 \n gmail: iamaayatul.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n Rasel Mia \n Address: সাদু, দোলাপাড়া, সাতমাথা \n Phone: 01773980323 \n gmail: iamrasel.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n RS. Rasel Mia \n Address: পিরগাছা \n Phone: 01864643953 \n gmail: iamrasel2.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n shadiduzzaman_mondol \n Address: মিঠাপুরকুর রংপুর \n Phone: 01785645369 \n gmail: iammondol.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+        <item>
+            \n tanvir Islam \n Address: বগুড়া, সদর \n Phone: 01763157432 \n gmail: iamtanvir.bd@gmail.com \n facebook: itisonlyasif \n
+        </item>
+
+    </string-array>
+    <string name="phone">01774508260</string>
+
+    <string name="owner_desc">\n Azizul Islam \n Address: নিউ শালন, মিস্ত্রী পাড়া, আইসক্রিম ফ্যাক্টরি \n Phone: 01710604515</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">About Me</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_member">Member</string>
+    <string name="menu_rules">Rules</string>
+    <string name="menu_owner">Owner</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>
+
